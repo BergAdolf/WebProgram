@@ -1,4 +1,5 @@
-# j2ee(Servlet_mysql_curd)
+# j2ee(servlet_mysql_curd)
+采用动态web项目  
 查询  
 删除   
 修改  
