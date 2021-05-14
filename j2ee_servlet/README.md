@@ -6,5 +6,3 @@
 打开文件  
 request和response 重用方法  
 
-# reference
-https://how2j.cn/k/servlet/servlet-query/563.html#nowhere 
