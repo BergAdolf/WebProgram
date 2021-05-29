@@ -10,9 +10,11 @@ A repository used for storge web simple code, maybe contains some demo.
 * j2ee_servlet_mysql_curd
 &nbsp;&nbsp; A servlet demo contains Mysql operations
 * j2ee_servlet_json_ajax
-&nbsp;&nbsp; A servlet demo contains Mysql operations
+&nbsp;&nbsp; A servlet demo contains ajax operations with json data
 * spring_IOC_AOP
 &nbsp;&nbsp; A frame based on IOC and AOP operations
+
+
 # Reference   
 https://www.liaoxuefeng.com/wiki/1252599548343744/1255945371526048   
 https://how2j.cn/
