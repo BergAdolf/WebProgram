@@ -13,8 +13,10 @@ A repository used for storge web simple code, maybe contains some demo.
 &nbsp;&nbsp; A servlet demo contains ajax operations with json data
 * spring_IOC_AOP
 &nbsp;&nbsp; A frame based on IOC and AOP operations
-
-
+* springmvc
+&nbsp;&nbsp; a popular MVC frame 
+* mybatis
+&nbsp;&nbsp; like JDBC
 # Reference   
 https://www.liaoxuefeng.com/wiki/1252599548343744/1255945371526048   
 https://how2j.cn/

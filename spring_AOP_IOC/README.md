@@ -1,12 +1,12 @@
-# Spring(Spring_AOP_IOC)
-采用Eclipse中的java项目进行布置  
-实现IOC操作  
-* 使用注解方式
-* 或是在applicationContext.xml中直接指定
+# Sprin=mvc
+采用Eclipse中的java动态项目进行布置  
+视图定位  
+注解方式  
+接受表单跳转  
+客户端跳转和服务端跳转  
+拦截器  
+上传文件  
 
-实现AOP操作
-* 使用注解方式
-* 或是在applicationContext.xml中直接指定切面操作以及触发方式
 
 # reference
-https://how2j.cn/k/servlet/servlet-query/563.html#nowhere 
+https://how2j.cn/k/springmvc/springmvc-interceptor/1141.html
