@@ -1,4 +1,4 @@
-# Sprin=mvc
+# Springmvc
 采用Eclipse中的java动态项目进行布置  
 视图定位  
 注解方式  
