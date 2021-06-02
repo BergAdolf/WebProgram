@@ -17,6 +17,10 @@ A repository used for storge web simple code, maybe contains some demo.
 &nbsp;&nbsp; a popular MVC frame 
 * mybatis
 &nbsp;&nbsp; like JDBC
+* ssm
+&nbsp;&nbsp; 
+* springboot
+&nbsp;&nbsp; 
 # Reference   
 https://www.liaoxuefeng.com/wiki/1252599548343744/1255945371526048   
 https://how2j.cn/
